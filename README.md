@@ -2,6 +2,8 @@
 
 This machine learning project aims to assist parents in understanding the influence of socio-environmental factors on a child's baseline math performance.
 
+demo link: https://youtu.be/4oWFVYLWGh0
+
 ## Features
 
 - **Feature Engineering**:
